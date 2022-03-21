@@ -1,4 +1,5 @@
-# data-spaces
+# Data Spaces
+## Dataset analisys for "Data Spaces" Computer Engineering Master Degree course
 
 Repository to contain the analisys of _Ionosphere_ dataset using different ML algorithms.
 In the file _final_report.pdf_ is shown all the analisys work done using the software Orange, whose project file is _ionosphere.ows_.
